@@ -1,0 +1,63 @@
+#body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+.input_div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 100%;
+}
+#inputbox{
+    border: none;
+    padding: 10px 20px 10px 20px;
+}
+#btn{
+    background-color: rgb(6, 22, 238);
+    padding: 10px 10px 10px 10px;
+    color: white;
+   
+}
+#btn:hover{
+    background-color: rgb(122, 151, 247);
+    box-shadow: 6px 8px 10px rgb(73, 72, 72);
+}
+.right{
+    float: right;
+}
+li{
+    list-style: none;
+    background-color: whitesmoke;
+    width: 200px;
+    padding: 10px 20px 10px 20px;
+    font-size: large;
+}
+button:hover{
+    background-color: gray;
+}
+
+button{
+    border: none;
+    cursor: pointer;
+}
+
+.icon{
+    height: 20px;
+    width: 20px;
+}
+
+.btn0{
+    background-color: rgb(6, 22, 238);
+    padding: 10px 10px 10px 10px;
+    color: white;
+   
+}
+.btn0:hover{
+    background-color: bisque;
+    box-shadow: 6px 8px 10px rgb(73, 72, 72);
+}
